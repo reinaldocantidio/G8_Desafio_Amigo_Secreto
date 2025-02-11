@@ -17,5 +17,7 @@ Este projeto contém as seguintes tecnologias:
 - Exibir o resultado do sorteio
 
 ## ✨ Demonstração
-<img src="assets/amigo-secreto.png" alt="Imagem representativa de amigo secreto" width="400">
+<img src="assets/amigo-secreto.png" alt="Imagem representativa de amigo secreto"> 
+Link: [https://reinaldocantidio.github.io/G8_Desafio_Amigo_Secreto/]
+
 
